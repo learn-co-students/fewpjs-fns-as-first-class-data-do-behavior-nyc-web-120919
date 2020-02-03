@@ -21,7 +21,7 @@ button, some provided code will run which will make calls to **two** functions.
 
 ## The `greet()` function
 
-The `greet` function should take one argument, a `String` which specifies the
+<!-- The `greet` function should take one argument, a `String` which specifies the -->
 24-hour time in the format `HH:MM`.
 
 - If the time is earlier than 12pm, return "Good Morning".
